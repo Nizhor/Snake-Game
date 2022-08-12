@@ -34,7 +34,7 @@ class Food:
 
         canvas.create_oval(x, y, x+SPACE_SIZE,y+SPACE_SIZE,fill = FOOD_COLOUR,tag="food")
 
-    pass
+    
 
 def next_turn(snake, food):
     x,y = snake.coordinates[0]
