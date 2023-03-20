@@ -4,7 +4,7 @@ from turtle import window_height
 
 GAME_WIDTH = 1000
 GAME_HEIGHT = 700
-SPEED = 100
+SPEED = 200
 SPACE_SIZE = 50
 BODY_PARTS = 3
 SNAKE_COLOUR = "#000000"
